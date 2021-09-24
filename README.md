@@ -1,14 +1,15 @@
-<h1 text-align="center">Não esqueci em Casa</h1>
+# Não esqueci em casa
 
-Status: under development
+Status: em desenvolvimento
 
-## What you will find in the project
+## Objetivos
 
-+ Comment system
-+ System to download files
-+ System to send files
-+ System for editing files
-+ Profile system
++ Criar sistema de comentários
++ Criar sistema para baixar arquivos
++ Criar sistema para enviar arquivos
++ Criar sistema para edição de arquivos
++ Criar sistema de perfil
 
-## Technologies used in this Project
+## Como começar
 
+## Tecnologias
